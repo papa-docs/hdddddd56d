@@ -6,7 +6,7 @@ var fio_en            = "Budenko Heorgii Vyacheslavich";
 var birth             = "18.05.1989";
 var rnokpp            = "3264518653";
 
-var prava_number      = "AB123456"; // номер прав
+var prava_number      = "AB734295"; // номер прав
 var university        = "ХНУ имени Каразина"; // Університет
 var fakultet          = "Физико-технический"; // Факультет
 var stepen_dip        = "Магістра";
