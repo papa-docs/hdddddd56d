@@ -1,10 +1,10 @@
 // values.js
 
 // данные 
-var fio               = "Иванов Иван Иванович";
-var fio_en            = "Ivanov Ivan Ivanovich";
-var birth             = "01.01.2000";
-var rnokpp            = "1234567890";
+var fio               = "Буденко Георгiй Вячеславич";
+var fio_en            = "Budenko Heorgii Vyacheslavich";
+var birth             = "18.05.1989";
+var rnokpp            = "3264518653";
 
 var prava_number      = "AB123456"; // номер прав
 var university        = "ХНУ имени Каразина"; // Університет
@@ -14,21 +14,21 @@ var univer_dip        = "ХНУ имени Каразина";
 var dayout_dip        = "01.07.2023";
 var special_dip       = "Прикладная математика";
 var number_dip        = "MT-545678";
-var live              = "м. Харьков";
+var live              = "м. Шостка";
 var prava_date_out    = "01.01.2030";
-var bank_adress       = "м. Харьков, вул. Героїв, 123";
+var bank_adress       = "м. Шостка, Луговая 9";
 var sex               = "М";
 var sex_en            = "M";
 
-var zagran_number     = "FP9087236";
+var zagran_number     = "FX013559";
 var student_number    = "2022154258";
 var student_date_give = "01.09.2021";
 var student_date_out  = "30.06.2025";
 var form              = "Очная";
 var rights_categories = "A, B";
 var date_give         = "01.01.2020";
-var prava_date_give   = "01.01.2020";
-var date_out          = "01.01.2030";
+var prava_date_give   = "10.11.2019";
+var date_out          = "09.11.2062";
 var pass_number       = "008759371";
 var organ             = "Шевченковский РОВД ХО";
 var uznr              = "106947";
@@ -39,8 +39,8 @@ var pravaOrgan        = "ТСЦ 6345 МВС України";
 
 // Включение/выключение документов
 var isRightsEnabled   = true;
-var isStudyEnabled    = true;
-var isZagranEnabled   = false;
+var isStudyEnabled    = false;
+var isZagranEnabled   = true;
 var isDiplomaEnabled  = false;
 // Добавь остальные переменные по аналогии
 
