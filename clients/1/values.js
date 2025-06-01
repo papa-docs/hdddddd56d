@@ -14,7 +14,7 @@ var univer_dip        = "ХНУ имени Каразина";
 var dayout_dip        = "01.07.2023";
 var special_dip       = "Прикладная математика";
 var number_dip        = "MT-545678";
-var live              = "Шостка";
+var live              = "Харкiв";
 var prava_date_out    = "09.11.2062";
 var bank_adress       = "м. Шостка, Луговая 9";
 var sex               = "М";
@@ -30,10 +30,10 @@ var date_give         = "22.11.2018";
 var prava_date_give   = "22.11.2028";
 var date_out          = "09.11.2062";
 var pass_number       = "008759371";
-var organ             = "Шевченковский РОВД ХО";
-var uznr              = "106947";
+var organ             = "5928";
+var uznr              = "19890518-08650";
 var legalAdress       = "м. Шостка, Луговая, 9";
-var registeredOn      = "13.05.2024";
+var registeredOn      = "15.07.2007";
 var pravaOrgan        = "ТСЦ 6345 МВС України";
 
 
